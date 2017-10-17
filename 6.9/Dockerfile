@@ -4,7 +4,7 @@ MAINTAINER Christian Dornbusch <christian.dornbusch@useeds.de>
 
 # Global install nodejs
 RUN apt-get update && apt-get install -y curl apt-transport-https && \
-    curl -sL https://deb.nodesource.com/setup_6.9 | sudo -E bash - && \
-    sudo apt-get install -y nodejs build-essential
+    curl -sL https://deb.nodesource.com/setup_6.9 | bash && \
+    apt-get install -y nodejs build-essential
 
 WORKDIR /workspace
