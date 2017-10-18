@@ -5,9 +5,8 @@ Docker image with Java 8 and Node.js
 
 ## Supported tags and respective `Dockerfile` links
 
--       [`6.9`, (*6.9/Dockerfile*)](https://github.com/Chrisdo82/docker-java-node/blob/master/6.9/Dockerfile)
--       [`7.4`, (*7.4/Dockerfile*)](https://github.com/Chrisdo82/docker-java-node/blob/master/7.4/Dockerfile)
--       [`7.5`, (*7.5/Dockerfile*)](https://github.com/Chrisdo82/docker-java-node/blob/master/7.5/Dockerfile)
--       [`7.6`, (*7.6/Dockerfile*)](https://github.com/Chrisdo82/docker-java-node/blob/master/7.6/Dockerfile)
--       [`8.0`, (*8.0/Dockerfile*)](https://github.com/Chrisdo82/docker-java-node/blob/master/8.0/Dockerfile)
--       [`8.7`, (*8.7/Dockerfile*)](https://github.com/Chrisdo82/docker-java-node/blob/master/8.7/Dockerfile)
+-       [`4.x`, (*4.x/Dockerfile*)](https://github.com/Chrisdo82/docker-java-node/blob/master/4.x/Dockerfile)
+-       [`5.x`, (*5.x/Dockerfile*)](https://github.com/Chrisdo82/docker-java-node/blob/master/5.x/Dockerfile)
+-       [`6.x`, (*6.x/Dockerfile*)](https://github.com/Chrisdo82/docker-java-node/blob/master/6.x/Dockerfile)
+-       [`7.x`, (*7.x/Dockerfile*)](https://github.com/Chrisdo82/docker-java-node/blob/master/7.x/Dockerfile)
+-       [`8.x`, (*8.x/Dockerfile*)](https://github.com/Chrisdo82/docker-java-node/blob/master/8.x/Dockerfile)
