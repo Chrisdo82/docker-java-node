@@ -1,4 +1,4 @@
-FROM java:8.7
+FROM java:8
 
 MAINTAINER Christian Dornbusch <christian.dornbusch@useeds.de>
 
